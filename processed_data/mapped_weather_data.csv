@@ -1,0 +1,81 @@
+date,temperature_max,temperature_min,precipitation,weather_code,weather_description,season
+2024-11-13,7.7,3.2,0.0,3.0,Overcast,Autumn
+2024-11-14,8.3,4.7,0.0,3.0,Overcast,Autumn
+2024-11-15,9.3,5.0,0.0,3.0,Overcast,Autumn
+2024-11-16,8.0,5.8,2.1,61.0,Light rain,Rainy
+2024-11-17,7.2,4.4,4.8,80.0,Light rain showers,Rainy
+2024-11-18,6.1,1.5,0.0,3.0,Overcast,Autumn
+2024-11-19,8.2,0.9,20.3,63.0,Rain,Rainy
+2024-11-20,3.4,0.9,1.1,85.0,Light snow showers,Winter
+2024-11-21,3.2,-0.6,0.4,85.0,Light snow showers,Winter
+2024-11-22,2.7,-0.1,0.1,80.0,Light rain showers,Rainy
+2024-11-23,4.7,0.0,9.0,85.0,Light snow showers,Winter
+2024-11-24,12.1,4.5,2.0,61.0,Light rain,Rainy
+2024-11-25,13.2,9.3,1.3,61.0,Light rain,Rainy
+2024-11-26,10.9,5.2,1.2,61.0,Light rain,Rainy
+2024-11-27,8.8,4.2,6.4,61.0,Light rain,Rainy
+2024-11-28,6.5,4.0,6.1,80.0,Light rain showers,Rainy
+2024-11-29,5.5,2.5,0.0,3.0,Overcast,Autumn
+2024-11-30,4.6,-0.8,0.0,3.0,Overcast,Autumn
+2024-12-01,4.4,-1.3,0.0,3.0,Overcast,Autumn
+2024-12-02,6.2,-0.5,0.2,80.0,Light rain showers,Rainy
+2024-12-03,7.8,4.0,2.0,80.0,Light rain showers,Rainy
+2024-12-04,4.8,3.9,1.3,61.0,Light rain,Rainy
+2024-12-05,4.6,2.3,1.1,61.0,Light rain,Rainy
+2024-12-06,6.1,2.7,10.8,80.0,Light rain showers,Rainy
+2024-12-07,5.8,4.5,3.5,61.0,Light rain,Rainy
+2024-12-08,4.8,1.4,2.3,61.0,Light rain,Rainy
+2024-12-09,4.7,1.5,1.8,61.0,Light rain,Rainy
+2024-12-10,3.5,2.2,0.0,61.0,Light rain,Rainy
+2024-12-11,3.4,1.3,0.0,3.0,Overcast,Autumn
+2024-12-12,2.3,0.3,0.0,3.0,Overcast,Autumn
+2024-12-13,2.4,-1.4,0.0,3.0,Overcast,Autumn
+2024-12-14,4.3,-1.3,0.8,61.0,Light rain,Rainy
+2024-12-15,10.1,4.3,2.8,61.0,Light rain,Rainy
+2024-12-16,10.9,8.7,0.0,61.0,Light rain,Rainy
+2024-12-17,9.4,6.3,0.1,61.0,Light rain,Rainy
+2024-12-18,11.6,5.9,0.6,61.0,Light rain,Rainy
+2024-12-19,12.9,5.5,3.5,80.0,Light rain showers,Rainy
+2024-12-20,6.1,2.1,0.0,3.0,Overcast,Autumn
+2024-12-21,7.0,2.5,3.0,61.0,Light rain,Rainy
+2024-12-22,7.2,3.5,2.2,80.0,Light rain showers,Rainy
+2024-12-23,5.2,3.0,1.0,85.0,Light snow showers,Winter
+2024-12-24,4.3,0.3,0.0,61.0,Light rain,Rainy
+2024-12-25,5.2,0.5,0.0,45.0,Fog,Autumn
+2024-12-26,6.1,3.7,0.0,45.0,Fog,Autumn
+2024-12-27,3.8,-0.8,0.0,45.0,Fog,Autumn
+2024-12-28,-0.8,-2.5,0.0,48.0,Depositing rime fog,Winter
+2024-12-29,2.5,-3.4,0.0,56.0,Light freezing drizzle,Winter
+2024-12-30,3.0,0.2,0.0,51.0,Light drizzle,Autumn
+2024-12-31,2.3,0.8,0.0,3.0,Overcast,Autumn
+2025-01-01,7.6,2.5,1.2,61.0,Light rain,Rainy
+2025-01-02,6.0,1.5,0.1,85.0,Light snow showers,Winter
+2025-01-03,3.0,-0.9,1.7,85.0,Light snow showers,Winter
+2025-01-04,0.8,-1.1,0.0,3.0,Overcast,Autumn
+2025-01-05,5.4,-2.3,12.5,73.0,moderate snow fall,Winter
+2025-01-06,10.9,6.6,2.5,80.0,Light rain showers,Rainy
+2025-01-07,7.2,1.1,1.8,85.0,Light snow showers,Winter
+2025-01-08,4.0,0.1,0.8,77.0,Snow grains,Winter
+2025-01-09,1.1,0.3,13.2,73.0,moderate snow fall,Winter
+2025-01-10,1.5,0.0,2.2,85.0,Light snow showers,Winter
+2025-01-11,1.4,-0.3,2.2,71.0,Slight snow fall,Winter
+2025-01-12,2.0,-1.5,0.0,3.0,Overcast,Autumn
+2025-01-13,-0.1,-3.0,0.0,3.0,Overcast,Autumn
+2025-01-14,2.8,-2.8,2.6,61.0,Light rain,Rainy
+2025-01-15,5.6,3.1,0.0,45.0,Fog,Autumn
+2025-01-16,3.4,0.7,0.0,45.0,Fog,Autumn
+2025-01-17,1.6,-1.8,0.0,48.0,Depositing rime fog,Winter
+2025-01-18,-1.0,-2.7,0.0,48.0,Depositing rime fog,Winter
+2025-01-19,3.9,-3.0,0.0,48.0,Depositing rime fog,Winter
+2025-01-20,5.6,-1.0,0.0,48.0,Depositing rime fog,Winter
+2025-01-21,-0.6,-2.7,0.0,48.0,Depositing rime fog,Winter
+2025-01-22,2.0,-2.6,0.0,48.0,Depositing rime fog,Winter
+2025-01-23,4.6,0.4,5.0,61.0,Light rain,Rainy
+2025-01-24,7.4,2.6,2.7,61.0,Light rain,Rainy
+2025-01-25,13.6,6.6,3.0,61.0,Light rain,Rainy
+2025-01-26,9.9,3.3,1.4,80.0,Light rain showers,Rainy
+2025-01-27,11.3,5.0,3.9,80.0,Light rain showers,Rainy
+2025-01-28,8.5,4.4,6.1,61.0,Light rain,Rainy
+2025-01-29,9.3,3.8,1.0,80.0,Light rain showers,Rainy
+2025-01-30,7.9,3.1,2.1,80.0,Light rain showers,Rainy
+2025-01-31,5.8,0.7,0.0,61.0,Light rain,Rainy
